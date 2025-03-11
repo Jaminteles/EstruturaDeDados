@@ -1,3 +1,32 @@
+TIPOS DE DADOS
+NUMERICOS (positivos ou negativos)
+	INTEIROS
+		unsigned int;
+		tinyint, smallint
+		INT
+		long, LONGINT, BIGINT sql
+	PONTOS FLUTUANTES
+		FLOAT
+		DOUBLE
+	PONTO FIXO NUMERIC OU DECIMAL SQL
+
+	string = "instituto";
+	char = 'A'; //unicode ascii
+	lógico boolean
+	pessoa["nome"]
+	
+	ponteiro
+	referencia
+
+	vetor  array matriz unidimensional
+	arrays ordinais
+	arrays associativos (dicionario) map
+
+Conjunto   //set
+
+	set a, b;
+	a.union(b);
+
 //Contrato
 //Stack Stackable
 //C -> Create (Criar)
@@ -5,8 +34,6 @@
 //U -> Update (Atualizar)
 //D -> Delete (Apagar)
 //S -> Sort (Ordenar)
-
-				//GENERICO
 
 public interface Empilhavel {
 	//operações principais
@@ -21,5 +48,4 @@ public interface Empilhavel {
 	Boolean estaCheia(); //isFull //overflow
 	Boolean estaVazia(); //isFull //underflow
 	String imprimir(); //print
-
 }
