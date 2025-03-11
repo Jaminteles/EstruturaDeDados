@@ -6,8 +6,10 @@
 //D -> Delete (Apagar)
 //S -> Sort (Ordenar)
 
+				//GENERICO
+
 public interface Empilhavel {
-	//operações principais
+	//operaÃ§Ãµes principais
 	void empilhar(Object dado); //push
 	Object desempilhar(); //pop
 	
@@ -15,7 +17,7 @@ public interface Empilhavel {
 	
 	Object topo(); //top
 	void atualizar(Object dado);
-	//operações auxiliares
+	//operaÃ§Ãµes auxiliares
 	Boolean estaCheia(); //isFull //overflow
 	Boolean estaVazia(); //isFull //underflow
 	String imprimir(); //print
