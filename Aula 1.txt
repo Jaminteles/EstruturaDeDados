@@ -1,0 +1,23 @@
+//Contrato
+//Stack Stackable
+//C -> Create (Criar)
+//R -> Read (Ler)
+//U -> Update (Atualizar)
+//D -> Delete (Apagar)
+//S -> Sort (Ordenar)
+
+public interface Empilhavel {
+	//operações principais
+	void empilhar(Object dado); //push
+	Object desempilhar(); //pop
+	
+	Object temp = pilha.desempilhar();
+	
+	Object topo(); //top
+	void atualizar(Object dado);
+	//operações auxiliares
+	Boolean estaCheia(); //isFull //overflow
+	Boolean estaVazia(); //isFull //underflow
+	String imprimir(); //print
+
+}
