@@ -42,7 +42,7 @@ public interface Empilhavel {
 	
 	Object temp = pilha.desempilhar();
 	
-	Object topo(); //top
+	Object espiar(); //peek
 	void atualizar(Object dado);
 	//operações auxiliares
 	Boolean estaCheia(); //isFull //overflow
