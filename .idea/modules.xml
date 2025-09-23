@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.1/.1.iml" filepath="$PROJECT_DIR$/.1/.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.2/.2.iml" filepath="$PROJECT_DIR$/.2/.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.1/Arvore/abp/ABP Genérica/ABP Genérica.iml" filepath="$PROJECT_DIR$/.1/Arvore/abp/ABP Genérica/ABP Genérica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.1/Arvore/abp/ABP Genérica Produto/ABP Genérica Produto.iml" filepath="$PROJECT_DIR$/.1/Arvore/abp/ABP Genérica Produto/ABP Genérica Produto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.1/Heap/Dinamico/Apagar/Apagar.iml" filepath="$PROJECT_DIR$/.1/Heap/Dinamico/Apagar/Apagar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.1/Arvore/Arvore.iml" filepath="$PROJECT_DIR$/.1/Arvore/Arvore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.1/Fila/Estatica/Estatica.iml" filepath="$PROJECT_DIR$/.1/Fila/Estatica/Estatica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EstruturaDeDados.iml" filepath="$PROJECT_DIR$/.idea/EstruturaDeDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.1/Fila/Fila.iml" filepath="$PROJECT_DIR$/.1/Fila/Fila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.1/Pilha/Pilha.iml" filepath="$PROJECT_DIR$/.1/Pilha/Pilha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.1/Pilha/Pilha Dinamica/Pilha Dinamica.iml" filepath="$PROJECT_DIR$/.1/Pilha/Pilha Dinamica/Pilha Dinamica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.1/Heap/Dinamico/apagar2/apagar2.iml" filepath="$PROJECT_DIR$/.1/Heap/Dinamico/apagar2/apagar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.1/Heap/Estatico/Árvore Binária Heap Máximo/Árvore Binária Heap Máximo.iml" filepath="$PROJECT_DIR$/.1/Heap/Estatico/Árvore Binária Heap Máximo/Árvore Binária Heap Máximo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.1/Heap/Estatico/Árvore Binária Heap Máximo Genérico/Árvore Binária Heap Máximo Genérico.iml" filepath="$PROJECT_DIR$/.1/Heap/Estatico/Árvore Binária Heap Máximo Genérico/Árvore Binária Heap Máximo Genérico.iml" />
+    </modules>
+  </component>
+</project>
