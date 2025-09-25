@@ -52,28 +52,3 @@ public class Q3 {
     System.out.println("4° nota: " + nota4);
     System.out.println("Média: " + (nota1 + nota2 + nota3 + nota4) / 4);
 }
-
-// Q4)
-
-public class Q4 {
-    String vetor1[];
-    int quant_consoantes;
-
-    for (int i = 0; i <= 10; i++) {
-            String caracter = sc.nextLine();
-            if caracter.length() > 1 {
-                System.out.println("Erro! Digite apenas um caracter.");
-                i--;
-            } else {
-                vetor1[i] = caracter;
-            }
-        }
-
-    for (int i = 0; i <= 10; i++) {
-        if vetor1[i] != "a" && vetor1[i] != "e" && vetor1[i] != "i" && vetor1[i] != "o" && vetor1[i] != "u" && {
-            System.out.println();
-            System.out.println("A posição: " + i + " Tem uma consoante, que é: " + vetor1[]);
-            quant_consoantes++;
-        }
-    }
-}
